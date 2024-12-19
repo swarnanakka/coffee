@@ -1,0 +1,54 @@
+.h{
+    
+   background:linear-gradient(rgba(58, 15, 15, 0.721),rgb(234, 138, 138)); 
+    border: 2px solid black;
+}
+
+.headerright{  
+    display: flex;
+justify-content: flex-end;
+    /* align-items: center; */
+    font-size: 20px;
+gap: 20px;
+
+} 
+a{ 
+    color: black;
+    text-decoration:none;
+
+}  
+
+.bodycontent{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+padding: 10px;
+gap: 10px;
+        margin-top:20px ;
+    border:2px solid black ;
+
+}
+
+.coffee{
+    border: 2px solid black ;
+    padding: 10px;
+    text-align:center ;
+    
+}
+.img{
+   width: 350;
+
+}
+
+
+.footer{
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    padding:20px;
+    background:linear-gradient(rgba(58, 15, 15, 0.721),rgb(141, 75, 75));
+    border: 2px solid black;
+
+
+} 
